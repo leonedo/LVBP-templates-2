@@ -122,7 +122,7 @@ const getMarkerValue = (obj, keyItem, defaultValue) => {
 
 //anim ready
 anim.addEventListener('config_ready', function (e) {
-   //Add fonts to style
+    //Add fonts to style
     if (!fontsLoaded) {
         let fonts = anim.renderer.data.fonts.list;
         for (const font in fonts) {
@@ -133,13 +133,11 @@ anim.addEventListener('config_ready', function (e) {
             }
         }
     }
-
-   
+    
     //setting the animation framerate
     let mainAnimation = anim.renderer.data
     framesMilliseconds = 1000 / mainAnimation.fr
 
-    
     if (anim.hasOwnProperty('markers')) {
         anim.markers.forEach((item, index) => {
             markers[item.payload.name] = item;
@@ -400,8 +398,9 @@ webcg.on('stop', function () {
     console.log('stop')
     clearTimeout(loopRepeat);
     loopAnimation = false;
-    nextAnimation = 'stop'
-   
+    nextAnimation = ''
+
+    
         if (!loopExternal) {
             anim.goToAndPlay('stop', true)
             isOn = false
@@ -412,6 +411,7 @@ webcg.on('stop', function () {
             anim.goToAndPlay('stop', true)
             isOn = false
         }
+    
 
 });
 
