@@ -2642,7 +2642,7 @@
   ],
   "fonts": {
     "list": [
-      {
+       {
         "origin": 0,
         "fPath": "../fonts/Montserrat-SemiBold.ttf",
         "fClass": "",
@@ -2668,63 +2668,6 @@
     {
       "ddd": 0,
       "ind": 1,
-      "ty": 0,
-      "nm": "COMPUERTA REVEAL",
-      "refId": "comp_0",
-      "sr": 1,
-      "ks": {
-        "o": {
-          "a": 0,
-          "k": 100,
-          "ix": 11
-        },
-        "r": {
-          "a": 0,
-          "k": 0,
-          "ix": 10
-        },
-        "p": {
-          "a": 0,
-          "k": [
-            508,
-            1808,
-            0
-          ],
-          "ix": 2,
-          "l": 2
-        },
-        "a": {
-          "a": 0,
-          "k": [
-            340,
-            162,
-            0
-          ],
-          "ix": 1,
-          "l": 2
-        },
-        "s": {
-          "a": 0,
-          "k": [
-            100,
-            100,
-            100
-          ],
-          "ix": 6,
-          "l": 2
-        }
-      },
-      "ao": 0,
-      "w": 680,
-      "h": 324,
-      "ip": 0,
-      "op": 45.0000018328876,
-      "st": 0,
-      "bm": 0
-    },
-    {
-      "ddd": 0,
-      "ind": 2,
       "ty": 4,
       "nm": ".outlleno3",
       "cl": "outlleno3",
@@ -2910,14 +2853,14 @@
           "hd": false
         }
       ],
-      "ip": 15.0000006109625,
+      "ip": 0,
       "op": 300.00001221925,
       "st": 0,
       "bm": 0
     },
     {
       "ddd": 0,
-      "ind": 3,
+      "ind": 2,
       "ty": 4,
       "nm": ".outlleno2",
       "cl": "outlleno2",
@@ -3103,14 +3046,14 @@
           "hd": false
         }
       ],
-      "ip": 15.0000006109625,
+      "ip": 0,
       "op": 300.00001221925,
       "st": 0,
       "bm": 0
     },
     {
       "ddd": 0,
-      "ind": 4,
+      "ind": 3,
       "ty": 4,
       "nm": ".outlleno1",
       "cl": "outlleno1",
@@ -3296,8 +3239,65 @@
           "hd": false
         }
       ],
-      "ip": 15.0000006109625,
+      "ip": 0,
       "op": 300.00001221925,
+      "st": 0,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 4,
+      "ty": 0,
+      "nm": "COMPUERTA REVEAL",
+      "refId": "comp_0",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [
+            508,
+            1808,
+            0
+          ],
+          "ix": 2,
+          "l": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [
+            340,
+            162,
+            0
+          ],
+          "ix": 1,
+          "l": 2
+        },
+        "s": {
+          "a": 0,
+          "k": [
+            100,
+            100,
+            100
+          ],
+          "ix": 6,
+          "l": 2
+        }
+      },
+      "ao": 0,
+      "w": 680,
+      "h": 324,
+      "ip": 0,
+      "op": 45.0000018328876,
       "st": 0,
       "bm": 0
     },
@@ -4378,7 +4378,7 @@
               "s": {
                 "s": 38,
                 "f": "Montserrat-SemiBold",
-                "t": "1 ALTA",
+                "t": "6 ALTA",
                 "ca": 0,
                 "j": 2,
                 "tr": 50,
@@ -4417,8 +4417,8 @@
       "ddd": 0,
       "ind": 12,
       "ty": 1,
-      "nm": ".primerabasellena",
-      "cl": "primerabasellena",
+      "nm": ".primerabase",
+      "cl": "primerabase",
       "sr": 1,
       "ks": {
         "o": {
@@ -4554,8 +4554,8 @@
       "ddd": 0,
       "ind": 13,
       "ty": 1,
-      "nm": ".segundabasellena",
-      "cl": "segundabasellena",
+      "nm": ".segundabase",
+      "cl": "segundabase",
       "sr": 1,
       "ks": {
         "o": {
@@ -4691,8 +4691,8 @@
       "ddd": 0,
       "ind": 14,
       "ty": 1,
-      "nm": ".tercerabasellena",
-      "cl": "tercerabasellena",
+      "nm": ".tercerabase",
+      "cl": "tercerabase",
       "sr": 1,
       "ks": {
         "o": {
@@ -4828,8 +4828,8 @@
       "ddd": 0,
       "ind": 15,
       "ty": 1,
-      "nm": ".fondo3",
-      "cl": "fondo3",
+      "nm": ".out_tres",
+      "cl": "out_tres",
       "sr": 1,
       "ks": {
         "o": {
@@ -4965,8 +4965,8 @@
       "ddd": 0,
       "ind": 16,
       "ty": 1,
-      "nm": ".fondo2",
-      "cl": "fondo2",
+      "nm": ".out_dos",
+      "cl": "out_dos",
       "sr": 1,
       "ks": {
         "o": {
@@ -5102,8 +5102,8 @@
       "ddd": 0,
       "ind": 17,
       "ty": 1,
-      "nm": ".fondo1",
-      "cl": "fondo1",
+      "nm": ".out_uno",
+      "cl": "out_uno",
       "sr": 1,
       "ks": {
         "o": {
@@ -6927,7 +6927,7 @@
       "ddd": 0,
       "ind": 25,
       "ty": 4,
-      "nm": "ousvacios",
+      "nm": "outsvacios",
       "sr": 1,
       "ks": {
         "o": {
@@ -8162,7 +8162,7 @@
               "s": {
                 "s": 32,
                 "f": "Montserrat-SemiBold",
-                "t": "0 picheos",
+                "t": "0",
                 "ca": 0,
                 "j": 1,
                 "tr": 0,
@@ -8563,7 +8563,7 @@
     }
   ],
   "markers": [
-  {
+    {
       "tm": 0,
       "cm": "play",
       "dr": 1
