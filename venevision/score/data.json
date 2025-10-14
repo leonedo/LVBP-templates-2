@@ -8136,6 +8136,14 @@
           "k": [
             {
               "s": {
+                 "sz": [
+                  475,
+                  45
+                ],
+                "ps": [
+                  0,
+                  -30
+                ],
                 "s": 44,
                 "f": "Montserrat-Bold",
                 "t": "WILMER JAMES ",
@@ -8294,6 +8302,14 @@
           "k": [
             {
               "s": {
+                "sz": [
+                  475,
+                  45
+                ],
+                "ps": [
+                  0,
+                  -30
+                ],
                 "s": 44,
                 "f": "Montserrat-Bold",
                 "t": "WILMER JAMES ",
