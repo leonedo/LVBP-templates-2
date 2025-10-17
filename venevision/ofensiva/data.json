@@ -29864,7 +29864,8 @@
       "ddd": 0,
       "ind": 61,
       "ty": 2,
-      "nm": "logoequipo",
+      "nm": ".logoequipo",
+      "cl": "logoequipo",
       "refId": "image_0",
       "sr": 1,
       "ks": {
