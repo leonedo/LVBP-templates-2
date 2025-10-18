@@ -11560,7 +11560,8 @@
       "ddd": 0,
       "ind": 14,
       "ty": 5,
-      "nm": "pitcherabridor",
+      "nm": ".tipopitcher",
+      "cl": "tipopitcher",
       "tt": 1,
       "sr": 1,
       "ks": {
