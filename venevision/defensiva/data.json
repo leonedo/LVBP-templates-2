@@ -19493,8 +19493,8 @@
       "ddd": 0,
       "ind": 3,
       "ty": 5,
-      "nm": ".nombreDH",
-      "cl": "nombreDH",
+      "nm": ".def1",
+      "cl": "def1",
       "sr": 1,
       "ks": {
         "o": {
@@ -19684,8 +19684,8 @@
       "ddd": 0,
       "ind": 5,
       "ty": 5,
-      "nm": ".nombreC",
-      "cl": "nombreC",
+      "nm": ".def2",
+      "cl": "def2",
       "sr": 1,
       "ks": {
         "o": {
@@ -19875,8 +19875,8 @@
       "ddd": 0,
       "ind": 7,
       "ty": 5,
-      "nm": ".nombre3B",
-      "cl": "nombre3B",
+      "nm": ".def5",
+      "cl": "def5",
       "sr": 1,
       "ks": {
         "o": {
@@ -20066,8 +20066,8 @@
       "ddd": 0,
       "ind": 9,
       "ty": 5,
-      "nm": ".nombreP",
-      "cl": "nombreP",
+      "nm": ".pitcher",
+      "cl": "pitcher",
       "sr": 1,
       "ks": {
         "o": {
@@ -20257,8 +20257,8 @@
       "ddd": 0,
       "ind": 11,
       "ty": 5,
-      "nm": ".nombre1B",
-      "cl": "nombre1B",
+      "nm": ".def3",
+      "cl": "def3",
       "sr": 1,
       "ks": {
         "o": {
@@ -20448,8 +20448,8 @@
       "ddd": 0,
       "ind": 13,
       "ty": 5,
-      "nm": ".nombre2B",
-      "cl": "nombre2B",
+      "nm": ".def4",
+      "cl": "def4",
       "sr": 1,
       "ks": {
         "o": {
@@ -20639,8 +20639,8 @@
       "ddd": 0,
       "ind": 15,
       "ty": 5,
-      "nm": ".nombreSS",
-      "cl": "nombreSS",
+      "nm": ".def6",
+      "cl": "def6",
       "sr": 1,
       "ks": {
         "o": {
@@ -20830,8 +20830,8 @@
       "ddd": 0,
       "ind": 17,
       "ty": 5,
-      "nm": ".nombreLF",
-      "cl": "nombreLF",
+      "nm": ".def7",
+      "cl": "def7",
       "sr": 1,
       "ks": {
         "o": {
@@ -21021,8 +21021,8 @@
       "ddd": 0,
       "ind": 19,
       "ty": 5,
-      "nm": ".nombreRF",
-      "cl": "nombreRF",
+      "nm": ".def9",
+      "cl": "def9",
       "sr": 1,
       "ks": {
         "o": {
@@ -21212,7 +21212,8 @@
       "ddd": 0,
       "ind": 21,
       "ty": 5,
-      "nm": "nombreCF",
+      "nm": ".def8",
+      "cl": "def8",
       "sr": 1,
       "ks": {
         "o": {
