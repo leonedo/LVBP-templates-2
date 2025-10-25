@@ -4341,8 +4341,8 @@
       "ddd": 0,
       "ind": 15,
       "ty": 5,
-      "nm": ".LOCALERROR",
-      "cl": "LOCALERROR",
+      "nm": ".VISITERROR",
+      "cl": "VISITERROR",
       "parent": 6,
       "sr": 1,
       "ks": {
@@ -4434,8 +4434,8 @@
       "ddd": 0,
       "ind": 16,
       "ty": 5,
-      "nm": ".VISITERROR",
-      "cl": "VISITERROR",
+      "nm": ".LOCALERROR",
+      "cl": "LOCALERROR",
       "parent": 6,
       "sr": 1,
       "ks": {
